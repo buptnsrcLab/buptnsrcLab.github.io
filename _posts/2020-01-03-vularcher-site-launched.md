@@ -4,13 +4,11 @@ title: "Extendable Vulnerability Detection on Android Apps–Inspired by Case St
 date: 2020-01-03
 ---
 
+We have collected 6114 Android apps that 79 Apps with Alibaba Cloud OSS credential disclosure vulnerability, 28 Apps with WebView remote code execution vulnerability (CVE-2014-1939), 4285 Apps with WebView bypass certificate validation vulnerability and 3936 Apps with HTTPS unverified server certificate vulnerability（ps:There is a phenomenon that an app contains multiple vulnerabilities. 
 
-We have collected 4449 Android apps that leak privacy data through inter-component communication. 
-We call this dataset as “”.
+To better mitigate vulnerabilities in Android apps, we are happy to release the entire detected apps (VulArcherData) and detection tool (VulArcher)  to the research community.
+However, to avoid this dataset and tool from being misused, we feel the need to have some sort of authentication in place to verify user identity or require necessary justification, instead of making the dataset and tool completely public.
+If you are interested in this dataset and tool, please send us an email through your official email address) with your necessary credentials such as name, affiliation and so on.
+Note that currently VulArcher and VulArcherData are hosted at github, so please send us a github account along with your request email so that we can grant you permission to download them.
 
-To better mitigate privacy leaks in Android apps, we are happy to release the entire detected apps (IccRE) to the research community.
-However, to avoid this dataset from being misused, we feel the need to have some sort of authentication in place to verify user identity or require necessary justification, instead of making the dataset completely public.
-If you are interested in this dataset, please send us an email (through your official email address) with your necessary credentials such as name, affiliation and so on.
-Note that currently IccRE is hosted at ,so please send us a github account along with your request email so that we can grant you permission to download this dataset.
-
-Please send your request emails to "" with " Samples Request" in the subject. 
+Please send your request emails to "qinjiawei@bupt.edu.cn" with " Samples and Tool Request" in the subject. 
