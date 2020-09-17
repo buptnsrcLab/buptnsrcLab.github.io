@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Extendable Vulnerability Detection on Android Apps–Inspired by Case Study on Vulnerability Related with Web Functions"
+title: "Vulnerability Detection on Android Apps–Inspired by Case Study on Vulnerability Related with Web Functions"
 date: 2020-01-03
 ---
 
